@@ -131,3 +131,20 @@ Task 3
 Management aims to evaluate each stage of the operations workflow to enhance processes and improve customer satisfaction. To support this goal, you are tasked with creating a dashboard similar to the screenshot as given below.
 
 ![image](https://github.com/user-attachments/assets/0542da6f-ed9c-453e-8c05-b0f99ef1b097)
+
+
+Order Analysis
+
+Management aims to evaluate order performance and has assigned you the responsibility of creating a comprehensive dashboard to effectively showcase key insights and trends.
+
+You are required to
+
+You are required to open the spreadsheet created by you in a previous exercise named  “<Your Name_FreshFables>”.
+
+Complete the below task to complete this exercise.
+
+Task
+
+Create a dashboard similar to the one shown in the screenshot below using the Master data of FreshFable exercise.
+![image](https://github.com/user-attachments/assets/f9b6537b-607b-4189-b53b-504eaafe90d2)
+
