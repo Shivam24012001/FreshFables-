@@ -75,6 +75,8 @@ Your answer should match with the screenshot given below:
 Task1
 
 Delayed Delivery Analysis
+![image](https://github.com/user-attachments/assets/adeefa90-5847-4c27-8d3d-a999688d0c17)
+
 
 Management seeks to evaluate the overall efficiency of the delivery process and has tasked you with creating a comprehensive dashboard to present this information effectively.
 
