@@ -72,7 +72,10 @@ Perform an “Exploratory Data Analysis for the data given by the company.
 
 Your answer should match with the screenshot given below:
 
-Task1
+![image](https://github.com/user-attachments/assets/4000fbf8-814b-4fde-864b-2fa17f685bd0)
+
+
+Task2
 
 Delayed Delivery Analysis
 ![image](https://github.com/user-attachments/assets/adeefa90-5847-4c27-8d3d-a999688d0c17)
@@ -82,7 +85,7 @@ Management seeks to evaluate the overall efficiency of the delivery process and 
 
 Your dashboard should be in similar to screenshot given below:
 
-Task 2
+Task 3
 
 Analysis of Operation Process
 
@@ -126,7 +129,7 @@ Stages with slight delays are given the lowest priority.
 
 All stages requiring 'Immediate Attention' must be listed as major issues for each order. For Delayed or Slightly Delayed processes, the stage with the maximum variance is highlighted as the major issue.
 
-Task 3
+Task 4
 
 Management aims to evaluate each stage of the operations workflow to enhance processes and improve customer satisfaction. To support this goal, you are tasked with creating a dashboard similar to the screenshot as given below.
 
